@@ -34,7 +34,6 @@ public class DotsViewController: UIViewController {
     
     lazy var greetingsView: UIView = {
        let greetingsView =  Bundle.main.loadNibNamed("GreetingsView", owner: self, options: nil)![0] as! UIView
-        print(greetingsView)
        greetingsView.frame = CGRect(origin: CGPoint(x: 0.0, y: 0.0), size: self.frameToDisplay.size)
        
        return greetingsView
@@ -48,7 +47,6 @@ public class DotsViewController: UIViewController {
         let line = UIView(frame: CGRect(x: firstDotView.dot.center.x - 1.5, y: self.view.bounds.height * 1.5, width: 3.0, height: 0.0))
         line.backgroundColor = UIColor.black
         line.layer.cornerRadius = 2.0
-        print(line.frame)
         
         return line
     }()

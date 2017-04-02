@@ -86,7 +86,7 @@
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>Left the Wrong Job</string>
+			<string>Left the wrong job</string>
 			<key>description</key>
 			<string>I left the job I thought was my dream job. I needed new experiences, I needed to find a job where I could make a difference.</string>
 			<key>date</key>
@@ -102,25 +102,25 @@
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>First App</string>
+			<string>First app</string>
 			<key>description</key>
-			<string>After six months participating in BEPiD I released my first app, which I called LimPOA. The LimPOA is a guide that helps residents of the city of Porto Alegre to properly dispose of their waste. The app uses open data provided by the Government.</string>
+			<string>After six months participating in BEPiD I released my first app, which I called LimPOA. The LimPOA is a guide that helps residents of the city of Porto Alegre to properly dispose of their waste. The app uses open data provided by the Government. It stil live today and I&apos;m talking with non-governamental organizations to expand its activities. Great news are coming about it!</string>
 			<key>date</key>
 			<string>July 2014</string>
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>First Swift App</string>
+			<string>First Swift app</string>
 			<key>description</key>
-			<string>I was very excited with the announcement of Swift language, so I decided to build an app to explore this new amazing language, I’ve made it open-source at GitHub to share with the people the way that I used Swift to build my app. I&apos;ve shared it with the intent to help others learn and improve. </string>
+			<string>I was very excited with the announcement of Swift language, so I decided to build an app to explore this new amazing language, I’ve made it open-source at GitHub to share with the people the way that I used Swift to build my app. I&apos;ve shared it with the intent to help others learn and to learn from the others too. </string>
 			<key>date</key>
 			<string>November 2014</string>
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>First Swift Job</string>
+			<string>First Swift job</string>
 			<key>description</key>
-			<string>Thanks to the code of my first Swift app that I built, I got a &quot;full-Swift&quot; job! It&apos;s being amazing work entirely with Swift and I&apos;m learning a lot about it.</string>
+			<string>Thanks to the code of my first Swift app available on GitHub, I got a &quot;full-Swift&quot; job! It was amazing to work entirely with Swift since its early days. I could learn a lot about it.</string>
 			<key>date</key>
 			<string>January 2015</string>
 		</dict>
@@ -128,9 +128,81 @@
 			<key>title</key>
 			<string>WWDC 15</string>
 			<key>description</key>
-			<string>Thank you for connecting this dot and giving me a ticket to WWDC 15! Haha, just a joke, but I really do want this dream to become a reality! Being a part of WWDC 15 would bring me a lot of amazing dots that I&apos;ll connect in my future.</string>
+			<string>Thank you for connecting this dot and giving me a ticket to WWDC 15! YEAH!! It did happened. I could not believe when the e-mail came in my inbox. It was by far the most amazing experience in my life. It changed even more my life in a way I couldn&apos;t even expect. Let&apos;s see what happened next, keep connecting the dots! </string>
 			<key>date</key>
 			<string>June 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The people &lt;3 </string>
+			<key>description</key>
+			<string>For me this is the key point in every experience and in WWDC it could not be differente! I met a ton of amazing people who inspired me to think different. </string>
+			<key>date</key>
+			<string>June 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The sessions &lt;3 </string>
+			<key>description</key>
+			<string>It was all awesome! Starting by waiting in the line since the night before the keynote (it was a lot of fun!) and going through all the sessions I could see. The best part: I could even discuss with the speakers the topic they just spoke about 😍</string>
+			<key>date</key>
+			<string>June 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The sessions with Apple Engineers &lt;3</string>
+			<key>description</key>
+			<string>Let me tell you an &quot;connecting dot&quot; inception here. Just before going to WWDC 15 I was working on an alternative component to UIPickerView built upon UITableView, but I was having some performance issues, so I could&apos;nt release it before going to WWDC. Then I wen to the one to one sessions with Apple Engineers and guess who was the first person I could talk with? YES! One of the engineers who helped to build UITableView in the very beginning of it. You can call it coincidence. For me it&apos;s just the dots connecting and making all sense.</string>
+			<key>date</key>
+			<string>June 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>PickerView release 🏁</string>
+			<key>description</key>
+			<string>Right after I came back to Brazil I was thirsty to create things and put all the inspiration to boost my work. I grabbed out the annotations I made about UITableView performance tricks and started to optimize my alternative component to UIPickerView. It worked like a charm! Then I released it and soon other developers all over the world started to starring it, contributing and asking for improvements. It was my first open-source component and I loved so much this experience. It is amazing to genuinely colaborate with people I would never meet in a project that enables other people to make great apps. Check it out on my GitHub, I&apos;m @filipealva there ;)</string>
+			<key>date</key>
+			<string>July 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>One more thing...</string>
+			<key>description</key>
+			<string>Yes, there is one more thing! I was amazed with all the possibilites I met that I&apos;ve never thought about and I just had the feeling that I could make it different. I saw the contrast of what can be done and what some technology makers offer for the people in my country. The contrast is even more visible in one of the most important fields of people&apos;s lives: personal finances. People in Brazil have a poor personal financial education. It seemed obvious to me that we must put energy on solving this issue. </string>
+			<key>date</key>
+			<string>July 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The birth of Planejei.com 🤖</string>
+			<key>description</key>
+			<string>I called one friend of mine who used to run a great personal finances app, one of the greatest in Brazil, for a coffee. We used to lunch togheter and wonder about oppening a business but this time was for real: we quit everything else to start making the best personal finances experience for the people in Brazil. We wanted to make it more personal, not just some cold charts and numbers. We believe that personal finances goes beyond numbers and reports: it is about people and their dreams. After a lot of research we validated that a Virtual Personal Assistant would be the best solution to work on. Siri don&apos;t let us to lie: conversational interfaces are great. We called our Virtual Personal Assistant for finances Marvin, in a tribute to Marvin Minsky one of the major contributors of the cognitive computing community. Obviously: great things take time to build, so lets keep connecting the dots to learn a little bit more of my story after WWDC 15.</string>
+			<key>date</key>
+			<string>August 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>We are not alone 💪</string>
+			<key>description</key>
+			<string>After prototyping our first version of what we call the first &quot;really personal&quot; financial management app we pitched it to some investors so we could finish the early stage of product development and launch for the people. Fortunately we got great partners to help us make it happen: Plug And Play Tech Center and Porto Seguro (a great brazilian insurance company) invested in us. </string>
+			<key>date</key>
+			<string>January 2016</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>2016 🚀</string>
+			<key>description</key>
+			<string>2016 was a great year for me. I was happier than ever. Finally I was working on something I believe, in the way I believe. It was a long year, I worked and reworked on Planejei as we were learning with our early adopters. By the end of the year we got a more mature product and we started talking with WWDR team in Brazil to learn how we could use the Apple&apos;s platforms in the best way to create an amazing experience for our users.</string>
+			<key>date</key>
+			<string>2016</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>WWDC 17</string>
+			<key>description</key>
+			<string>It may seem that the dots doesn&apos;t make sense, but trust me: they make all the sense. Apple played an important role in my life. I can guarantee that the experiences I lived during WWDC 15 affected dirrectly all the facts after it. I know the impact it had in my life and I&apos;m looking forward to see the impact of going to WWDC 17. It will be a pleasure to meet you at WWDC 17, I&apos;m sure that it will create even awesome dots for me to connect in the future.</string>
+			<key>date</key>
+			<string>June 2017</string>
 		</dict>
 	</array>
 </dict>

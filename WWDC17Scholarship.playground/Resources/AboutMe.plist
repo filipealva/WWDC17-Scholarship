@@ -156,7 +156,7 @@
 			<key>title</key>
 			<string>The people ❤️</string>
 			<key>description</key>
-			<string>For me this is the key point in every experience and in WWDC it could not be differente! I met a ton of amazing people who inspired me to think different. </string>
+			<string>For me this is the key point in every experience and in WWDC it could not be different! I met a ton of amazing people who inspired me to think different.</string>
 			<key>date</key>
 			<string>June 2015</string>
 		</dict>
@@ -172,7 +172,7 @@
 			<key>title</key>
 			<string>The sessions with Apple Engineers ❤️</string>
 			<key>description</key>
-			<string>Let me tell you an &quot;connecting dot&quot; inception here. Just before going to WWDC 15 I was working on an alternative component to UIPickerView built upon UITableView, but I was having some performance issues, so I could&apos;nt release it before going to WWDC. Then I wen to the one to one sessions with Apple Engineers and guess who was the first person I could talk with? YES! One of the engineers who helped to build UITableView in the very beginning of it. You can call it coincidence. For me it&apos;s just the dots connecting and making all sense.</string>
+			<string>Let me tell you a &quot;connecting dot&quot; inception here. Just before going to WWDC 15 I was working on an alternative component to UIPickerView built upon UITableView, but I was having some performance issues, so I couldn&apos;t release it before going to WWDC. Then I went to the one to one sessions with Apple Engineers and do you guess who was the first person I could talk with? YES! One of the engineers who helped to build UITableView in the very beginning of it. You can call it coincidence. For me it&apos;s just the dots connecting and making all sense.</string>
 			<key>date</key>
 			<string>June 2015</string>
 		</dict>
@@ -180,7 +180,7 @@
 			<key>title</key>
 			<string>PickerView release 🏁</string>
 			<key>description</key>
-			<string>Right after I came back to Brazil I was thirsty to create things and put all the inspiration to boost my work. I grabbed out the annotations I made about UITableView performance tricks and started to optimize my alternative component to UIPickerView. It worked like a charm! Then I released it and soon other developers all over the world started to starring it, contributing and asking for improvements. It was my first open-source component and I loved so much this experience. It is amazing to genuinely colaborate with people I would never meet in a project that enables other people to make great apps. Check it out on my GitHub, I&apos;m @filipealva there ;)</string>
+			<string>Right after I came back to Brazil I was thirsty to create things and put all the inspiration to boost my work. I grabbed out the annotations I made about UITableView performance tricks and started to optimize my alternative component to UIPickerView. It worked like a charm! Then I released it and soon other developers all over the world started to starring it, contributing and asking for improvements. It was my first open-source component and I loved it so much this experience. It is amazing to genuinely colaborate with people I would never meet in a project that enables other people to make great apps. Check it out on my GitHub, I&apos;m @filipealva there ;)</string>
 			<key>date</key>
 			<string>July 2015</string>
 		</dict>
@@ -188,7 +188,7 @@
 			<key>title</key>
 			<string>One more thing...</string>
 			<key>description</key>
-			<string>Yes, there is one more thing! I was amazed with all the possibilites I met that I&apos;ve never thought about and I just had the feeling that I could make it different. I saw the contrast of what can be done and what some technology makers offer for the people in my country. The contrast is even more visible in one of the most important fields of people&apos;s lives: personal finances. People in Brazil have a poor personal financial education. It seemed obvious to me that we must put energy on solving this issue. </string>
+			<string>Yes, there is one more thing! I was amazed with all the possibilites I met that I&apos;ve never thought about and I just had the feeling that I could make the things different. I saw the contrast of what can be done and what some technology makers offer for the people in my country. The contrast is even more visible in one of the most important fields of people&apos;s lives: personal finances. People in Brazil have a poor personal financial education. It seemed obvious to me that we must put energy on solving this issue. </string>
 			<key>date</key>
 			<string>July 2015</string>
 		</dict>
@@ -196,7 +196,7 @@
 			<key>title</key>
 			<string>The birth of Planejei.com 🤖</string>
 			<key>description</key>
-			<string>I called one friend of mine who used to run a great personal finances app, one of the greatest in Brazil, for a coffee. We used to lunch togheter and wonder about oppening a business but this time was for real: we quit everything else to start making the best personal finances experience for the people in Brazil. We wanted to make it more personal, not just some cold charts and numbers. We believe that personal finances goes beyond numbers and reports: it is about people and their dreams. After a lot of research we validated that a Virtual Personal Assistant would be the best solution to work on. Siri don&apos;t let us to lie: conversational interfaces are great. We called our Virtual Personal Assistant for finances Marvin, in a tribute to Marvin Minsky one of the major contributors of the cognitive computing community. Obviously: great things take time to build, so lets keep connecting the dots to learn a little bit more of my story after WWDC 15.</string>
+			<string>I called one friend of mine who used to run a great personal finances app, one of the greatest in Brazil, for a coffee. We used to lunch togheter and wondered about launching a business but this time was for real: we quit everything else to start making the best personal finances experience for the people in Brazil. We wanted to make it more personal, not just some cold charts and numbers. We believe that personal finances goes beyond numbers and reports: it is about people and their dreams. After a lot of research we validated that a Virtual Personal Assistant would be the best solution to work on. Siri don&apos;t let us to lie: conversational interfaces are great. We called our Virtual Personal Assistant for finances Marvin, in a tribute to Marvin Minsky one of the major contributors of the cognitive computing community. Obviously: great things take time to build, so lets keep connecting the dots to learn a little bit more of my story after WWDC 15.</string>
 			<key>date</key>
 			<string>August 2015</string>
 		</dict>

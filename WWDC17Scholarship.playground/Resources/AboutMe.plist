@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>educationItems</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>BEPiD - Brazilian Education Program for iOS Development</string>
+			<key>description</key>
+			<string>This program was game-changing in my education, it was crucial for me to discover what I love and what I want to do. I learned a lot about iOS Development, about all the phases related to product development and the most important thing: I learned a new way to learn, it turned me into a passionate learner.</string>
+			<key>startDate</key>
+			<string>Started at: November 2013</string>
+			<key>endDate</key>
+			<string>Ended at: December 2014</string>
+			<key>imageName</key>
+			<string>bepid-icon.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Systems Analisys and Development Degree</string>
+			<key>description</key>
+			<string>I&apos;m an undergraduate in Systems Analysis and Development.</string>
+			<key>startDate</key>
+			<string>Started at: July 2012</string>
+			<key>endDate</key>
+			<string>Ends at: March 2018</string>
+			<key>imageName</key>
+			<string>college-icon.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Technical High School</string>
+			<key>description</key>
+			<string>I went to a Technical High School where I&apos;ve studied 2 years about programming in parallel with the normal classes. </string>
+			<key>startDate</key>
+			<string>Started at: March 2010</string>
+			<key>endDate</key>
+			<string>Ended at: March 2012</string>
+			<key>imageName</key>
+			<string>tech-school-icon.png</string>
+		</dict>
+	</array>
+	<key>projects</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>LimPOA - Smart Waste Disposal</string>
+			<key>description</key>
+			<string>LimPOA is the easiest way to find places where you can dispose your waste in an environmentally-friendly manner in the city of Porto Alegre. You have a list of the closest places to you, separated by categories. The data are provided by the city of Porto Alegre through an open-data platform.</string>
+			<key>imageName</key>
+			<string>limpoa-icon.png</string>
+			<key>appstore</key>
+			<string>https://itunes.apple.com/us/app/limpoa/id895973608?mt=8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cepp - Easily Find Addresses.</string>
+			<key>description</key>
+			<string>A simple application that can find details about an address based on a given zipcode (a.k.a CEP in Brazil). The user also can trace a route in the map using througt Cepp. This app works just with brazilians zipcodes and are available only in the brazilian AppStore.</string>
+			<key>imageName</key>
+			<string>cepp-icon.png</string>
+			<key>appstore</key>
+			<string>https://itunes.apple.com/br/app/cepp-encontre-ceps/id942709971?ls=1&amp;mt=8</string>
+			<key>github</key>
+			<string>http://github.com/filipealva/Cepp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Clip - Find the Better Beauty Service</string>
+			<key>description</key>
+			<string>Clip is a brand new social network that connects customers with beauty centers and professionals. With Clip you can follow your favorite beauty professionals, receive their portfolio updates and share with your friends. Unfortunately Clip is not available anymore :(</string>
+			<key>imageName</key>
+			<string>clip-icon.png</string>
+			<key>appstore</key>
+			<string>https://itunes.apple.com/us/app/clip-encontre-os-melhores/id934942214?mt=8</string>
+		</dict>
+	</array>
+	<key>stories</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Introduction</string>
+			<key>description</key>
+			<string>Scroll down to connect the dots that brought me up here. </string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Left the Wrong Job</string>
+			<key>description</key>
+			<string>I left the job I thought was my dream job. I needed new experiences, I needed to find a job where I could make a difference.</string>
+			<key>date</key>
+			<string>October 2013</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>BEPiD</string>
+			<key>description</key>
+			<string>After quitting my job, I heard about BEPiD(Brazilian Education Program for iOS Development), an educational program to train iOS developers. It was very exciting to me, and despite knowing little about the platform I decided to sign up. I was accepted and early on I realized that I would not be the same at the end of this program.</string>
+			<key>date</key>
+			<string>November 2014</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>First App</string>
+			<key>description</key>
+			<string>After six months participating in BEPiD I released my first app, which I called LimPOA. The LimPOA is a guide that helps residents of the city of Porto Alegre to properly dispose of their waste. The app uses open data provided by the Government.</string>
+			<key>date</key>
+			<string>July 2014</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>First Swift App</string>
+			<key>description</key>
+			<string>I was very excited with the announcement of Swift language, so I decided to build an app to explore this new amazing language, I’ve made it open-source at GitHub to share with the people the way that I used Swift to build my app. I&apos;ve shared it with the intent to help others learn and improve. </string>
+			<key>date</key>
+			<string>November 2014</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>First Swift Job</string>
+			<key>description</key>
+			<string>Thanks to the code of my first Swift app that I built, I got a &quot;full-Swift&quot; job! It&apos;s being amazing work entirely with Swift and I&apos;m learning a lot about it.</string>
+			<key>date</key>
+			<string>January 2015</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>WWDC 15</string>
+			<key>description</key>
+			<string>Thank you for connecting this dot and giving me a ticket to WWDC 15! Haha, just a joke, but I really do want this dream to become a reality! Being a part of WWDC 15 would bring me a lot of amazing dots that I&apos;ll connect in my future.</string>
+			<key>date</key>
+			<string>June 2015</string>
+		</dict>
+	</array>
+</dict>
+</plist>

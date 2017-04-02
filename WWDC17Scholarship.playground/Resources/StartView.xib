@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Light.ttf">
+            <string>OpenSans-Light</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="KEJ-Mk-eZL">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mDc-tL-nw0">
+                    <rect key="frame" x="15" y="234" width="345" height="139"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5n4-v2-XeN">
+                            <rect key="frame" x="8" y="8" width="337" height="116.5"/>
+                            <constraints>
+                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="88" id="Tcg-bf-AGU"/>
+                                <constraint firstAttribute="height" constant="88" id="kxN-7K-mSk"/>
+                            </constraints>
+                            <string key="text">You can't connect the dots looking forward, you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future.</string>
+                            <fontDescription key="fontDescription" name="OpenSans-Light" family="Open Sans" pointSize="20"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="kxN-7K-mSk"/>
+                                </mask>
+                            </variation>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="- Steve Jobs" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mjX-NX-cUW">
+                            <rect key="frame" x="227" y="132.5" width="110" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="110" id="KLM-UQ-qaz"/>
+                                <constraint firstAttribute="height" constant="21" id="WjQ-PD-sh0"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="mjX-NX-cUW" secondAttribute="trailing" constant="8" id="1zp-6N-0k4"/>
+                        <constraint firstAttribute="trailing" secondItem="5n4-v2-XeN" secondAttribute="trailing" id="2C2-nM-LEZ"/>
+                        <constraint firstItem="5n4-v2-XeN" firstAttribute="leading" secondItem="mDc-tL-nw0" secondAttribute="leading" constant="8" id="Ic8-08-0kG"/>
+                        <constraint firstItem="mjX-NX-cUW" firstAttribute="top" secondItem="5n4-v2-XeN" secondAttribute="bottom" constant="8" id="K1q-7i-XAI"/>
+                        <constraint firstItem="5n4-v2-XeN" firstAttribute="top" secondItem="mDc-tL-nw0" secondAttribute="top" constant="8" id="p25-Rd-K8s"/>
+                        <constraint firstAttribute="height" constant="139" id="vWm-a2-wIJ"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" tag="800" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AGp-r2-brv">
+                    <rect key="frame" x="0.0" y="617" width="375" height="50"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="NPy-03-6Yb"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
+                    <state key="normal" title="Tap to start">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="AGp-r2-brv" secondAttribute="trailing" id="2eH-Cu-3uH"/>
+                <constraint firstItem="mDc-tL-nw0" firstAttribute="leading" secondItem="KEJ-Mk-eZL" secondAttribute="leading" constant="15" id="UDU-qO-pPT"/>
+                <constraint firstItem="AGp-r2-brv" firstAttribute="leading" secondItem="KEJ-Mk-eZL" secondAttribute="leading" id="amd-KX-2CT"/>
+                <constraint firstAttribute="centerY" secondItem="mDc-tL-nw0" secondAttribute="centerY" constant="30" id="saD-mk-7nt"/>
+                <constraint firstAttribute="trailing" secondItem="mDc-tL-nw0" secondAttribute="trailing" constant="15" id="uGq-bP-92Z"/>
+                <constraint firstAttribute="bottom" secondItem="AGp-r2-brv" secondAttribute="bottom" id="xSD-Tk-u6m"/>
+            </constraints>
+            <point key="canvasLocation" x="33.5" y="54.5"/>
+        </view>
+    </objects>
+</document>

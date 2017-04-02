@@ -45,6 +45,26 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Planejei - Your financial personal assistant</string>
+			<key>description</key>
+			<string>At Planejei we built Marvin: The first Virtual Personal Assistant for personal finances in Latin America. With Marvin, our customers can transform the experience of managing their finances in a way they could not imagine before. It is the easiest and funniest way to deal with your money.</string>
+			<key>imageName</key>
+			<string>planejei-icon.png</string>
+			<key>appstore</key>
+			<string>https://itunes.apple.com/br/app/planejei-financas-gerenciador/id1088406796</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PickerView - Highly customizable alternative to UIPickerView</string>
+			<key>description</key>
+			<string>PickerView is an easy to use and customize alternative to UIPickerView written in Swift. It was developed to provide a highly customizable experience, so you can implement your custom designed UIPickerView.</string>
+			<key>imageName</key>
+			<string>pickerview-3.png</string>
+			<key>appstore</key>
+			<string>https://github.com/filipealva/PickerView</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>LimPOA - Smart Waste Disposal</string>
 			<key>description</key>
 			<string>LimPOA is the easiest way to find places where you can dispose your waste in an environmentally-friendly manner in the city of Porto Alegre. You have a list of the closest places to you, separated by categories. The data are provided by the city of Porto Alegre through an open-data platform.</string>

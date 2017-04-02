@@ -103,6 +103,7 @@ extension AboutMeTableViewController {
             let titleLabel = projectCell.viewWithTag(1400) as! UILabel
             let description = projectCell.viewWithTag(1500) as! UILabel
             let icon = projectCell.viewWithTag(1600) as! UIImageView
+            icon.contentMode = .scaleAspectFit
             
             titleLabel.text = project.name
             description.text = project.description
